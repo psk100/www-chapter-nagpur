@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Nagpur
-tags: example-tag
+tags: nagpur india infosec owaspnagpur appsec ctf security
 level: 0
 
 region: Middle East
