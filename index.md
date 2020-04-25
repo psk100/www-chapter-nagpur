@@ -12,7 +12,7 @@ auto-migrated: 0
 ---
 
 ## Welcome
-Welcome to OWASP Nagpur Chapter.The Chapter's vision is to spread awareness about the Application Security among the citizens of Nagpur.It will conduct meets every now and then about the trends in the security community.
+Welcome to OWASP Nagpur Chapter.The chapter leaders are <a href="mailto:tushar.kulkarni@owasp.org">Tushar Kulkarni</a>, <a href="mailto:hrishikesh.somchatwar@owasp.org">Hrishikesh Somchatwar</a> and <a href="mailto:sahil.tembhare@owasp.org">Sahil Tembhare</a>.The Chapter's vision is to spread awareness about the Application Security among not just the citizens of Nagpur but beyond that too.It will conduct meets every now and then about the trends in the security community.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
