@@ -25,11 +25,13 @@ Please change these items to indicate the actual information you wish to present
 - region: This is the region you are in according to our data
 ```
 
+
+
+
 {copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
+
 ## Welcome
-Include some information here about your chapter
+Welcome to OWASP Nagpur Chapter.The Chapter's vision is to spread awareness about the Application Security among the citizens of Nagpur.It will conduct meets every now and then about the trends in the security community.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -40,7 +42,11 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Local News
 - Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+- Everyone is welcome to join us at our chapter meetings which are free to attend.Just come with an open mind and willingness to share and learn..
+
+
+Replace the text above the commented area with your information in the format below:
+```
 
 ```
 {info.md}
