@@ -3,11 +3,11 @@
 layout: col-sidebar
 title: OWASP Nagpur
 tags: nagpur india infosec owaspnagpur appsec ctf security
-level: 0
+level: 4
 
 region: Middle East
 
-auto-migrated: 1
+auto-migrated: 0
 
 ---
 
