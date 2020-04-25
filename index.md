@@ -11,7 +11,7 @@ auto-migrated: 0
 
 ---
 
-<a href="https://groups.google.com/a/owasp.org/forum/embed/?place=forum/nagpur-chapter"><img src="assets/images/OWASP_Nagpur_BannerF.png" alt="OWASPN Nagpur"/></a>
+<a href="https://groups.google.com/a/owasp.org/forum/embed/?place=forum/nagpur-chapter"><img src="assets/images/OWASP_Nagpur_BannerF.png" height="500" width="100" alt="OWASPN Nagpur"/></a>
 
 
 
@@ -36,13 +36,13 @@ The following are the list of organizations/teams who have supported the OWASP N
 
 <table cellpadding="15" cellspacing="0">
 <tr>
-<td height=150 width=150 >
+<td height="150" width="150" >
 
 <a href="https://www.persistent.com/"><img src="assets/images/persistent_logo.png" alt="Persistent Systems"/></a>
 
 </td>
-</tr>
-<td height=120 width=120 >
+
+<td height="150" width="150" >
 
 <a href="https://www.ctzlab.com"><img src="assets/images/ctzlab_logo.png" alt="CTZ Lab"/></a>
 
