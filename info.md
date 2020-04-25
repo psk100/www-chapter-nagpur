@@ -1,4 +1,4 @@
-### London Information
+### Nagpur Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/nagpur-chapter)
 * [Local Chapter Support](https://www.owasp.org/index.php/Local_Chapter_Supporter)
