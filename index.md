@@ -11,7 +11,7 @@ auto-migrated: 0
 
 ---
 
-<a href="https://groups.google.com/a/owasp.org/forum/embed/?place=forum/nagpur-chapter"><img src="assets/images/OWASP_Nagpur_BannerF.png" height="255" width="500" alt="OWASPN Nagpur"/></a>
+<center><a href="https://groups.google.com/a/owasp.org/forum/embed/?place=forum/nagpur-chapter"><img src="assets/images/OWASP_Nagpur_BannerF.png" height="255" width="500" alt="OWASPN Nagpur"/></a></center>
 
 
 
