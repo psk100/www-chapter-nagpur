@@ -26,4 +26,12 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Everyone is welcome to join us at our chapter meetings which are free to attend.Just come with an open mind and willingness to share and learn..
 
 
+Support & Sponsors
+----------------
+The following are the list of organizations/teams who have supported the OWASP Nagpur chapter in some or the other way:
+
+
+
+
+
 
