@@ -11,6 +11,10 @@ auto-migrated: 0
 
 ---
 
+<a href="https://groups.google.com/a/owasp.org/forum/embed/?place=forum/nagpur-chapter"><img src="assets/images/OWASP_Nagpur_BannerF.png" alt="OWASPN Nagpur"/></a>
+
+
+
 ## Welcome
 Welcome to OWASP Nagpur Chapter.The chapter leaders are <a href="mailto:tushar.kulkarni@owasp.org">Tushar Kulkarni</a>, <a href="mailto:hrishikesh.somchatwar@owasp.org">Hrishikesh Somchatwar</a> and <a href="mailto:sahil.tembhare@owasp.org">Sahil Tembhare</a>.The Chapter's vision is to spread awareness about the Application Security among not just the citizens of Nagpur but beyond that too.It will conduct meets every now and then about the trends in the security community.
 
@@ -30,8 +34,20 @@ Support & Sponsors
 ----------------
 The following are the list of organizations/teams who have supported the OWASP Nagpur chapter in some or the other way:
 
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td>
 
+<a href="https://www.persistent.com/"><img src="assets/images/persistent_logo.png" alt="Persistent Systems"/></a>
 
+</td>
+<td>
+
+<a href="https://www.ctzlab.com"><img src="assets/images/ctzlab_logo.png" alt="CTZ Lab"/></a>
+
+</td>
+</tr>
+</table>
 
 
 
