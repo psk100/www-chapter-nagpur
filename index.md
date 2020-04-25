@@ -36,12 +36,15 @@ The following are the list of organizations/teams who have supported the OWASP N
 
 <table cellpadding="15" cellspacing="0">
 <tr>
-<td>
+<td height=150 width=150 >
 
 <a href="https://www.persistent.com/"><img src="assets/images/persistent_logo.png" alt="Persistent Systems"/></a>
 
 </td>
-<td>
+</tr>
+
+<tr>
+<td height=150 width=150 >
 
 <a href="https://www.ctzlab.com"><img src="assets/images/ctzlab_logo.png" alt="CTZ Lab"/></a>
 
