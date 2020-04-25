@@ -42,9 +42,7 @@ The following are the list of organizations/teams who have supported the OWASP N
 
 </td>
 </tr>
-
-<tr>
-<td height=150 width=150 >
+<td height=120 width=120 >
 
 <a href="https://www.ctzlab.com"><img src="assets/images/ctzlab_logo.png" alt="CTZ Lab"/></a>
 
