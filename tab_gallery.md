@@ -12,7 +12,7 @@ tags: nagpur
 
 ## Gallery
 
-<center>
+
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td height="150" width="250" >
@@ -80,4 +80,4 @@ tags: nagpur
 </td>
 </tr>
 </table>
-</center>
+
