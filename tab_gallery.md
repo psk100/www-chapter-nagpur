@@ -12,7 +12,6 @@ tags: nagpur
 
 ## Gallery
 
-
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td height="150" width="250" >
