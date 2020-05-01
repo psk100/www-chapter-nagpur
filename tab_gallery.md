@@ -78,5 +78,4 @@ tags: nagpur
 
 </td>
 </tr>
-</table>
 
