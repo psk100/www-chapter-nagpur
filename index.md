@@ -25,9 +25,23 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings which are free to attend.Just come with an open mind and willingness to share and learn..
+## Upcoming Events
+
+### OWASP Nagpur Meet #8 (Virtual)
+
+* Date : 17th May
+* Time : 11:00 AM
+* Agenda: 
+1. News Bytes(15 mins)
+2. SSRF For Bug Bounties (45 mins) - <a href=https://twitter.com/Cyb3rlant3rn>Rishabh Nigam</a>
+3. Everything OSS -The Application and Importance of Open Source Software (45 mins) - <a href=https://twitter.com/callmeshreyas>Shreyas Muthe</a>, <a href=https://twitter.com/Mr1337R0b0t>Arpan Adlakhiya</a>,<a href=https://twitter.com/NihalNakade7>Nihal Nakade</a>
+
+* Link to Register : <a href=https://www.meetup.com/OWASP-Nagpur-Chapter/events/270546441/> Here </a>
+
+
+
+
+* Everyone is welcome to join us at our chapter meetings which are free to attend.Just come with an open mind and willingness to share and learn..
 
 
 Support & Sponsors
