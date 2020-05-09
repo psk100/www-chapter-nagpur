@@ -33,10 +33,10 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 * Time : 11:00 AM
 * Agenda: 
 1. News Bytes(15 mins)
-2. SSRF For Bug Bounties (45 mins) - <a href=https://twitter.com/Cyb3rlant3rn>Rishabh Nigam</a>
-3. Everything OSS -The Application and Importance of Open Source Software (45 mins) - <a href=https://twitter.com/callmeshreyas>Shreyas Muthe</a>, <a href=https://twitter.com/Mr1337R0b0t>Arpan Adlakhiya</a>,<a href=https://twitter.com/NihalNakade7>Nihal Nakade</a>
+2. SSRF For Bug Bounties (45 mins) - <a href="https://twitter.com/Cyb3rlant3rn">Rishabh Nigam</a>
+3. Everything OSS -The Application and Importance of Open Source Software (45 mins) - <a href="https://twitter.com/callmeshreyas">Shreyas Muthe</a>, <a href="https://twitter.com/Mr1337R0b0t">Arpan Adlakhiya</a>,<a href="https://twitter.com/NihalNakade7">Nihal Nakade</a>
 
-* Link to Register : <a href=https://www.meetup.com/OWASP-Nagpur-Chapter/events/270546441/> Here </a>
+* Link to Register : <a href="https://www.meetup.com/OWASP-Nagpur-Chapter/events/270546441/"> Here </a>
 
 
 
