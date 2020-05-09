@@ -61,7 +61,7 @@ tags: nagpur
 
 <td height="150" width="250" >
 
-<img src="assets/images/gallery/attendees_meet6.jpg" />
+<img src="assets/images/gallery/meet7_attendees1.jpg" />
 
 </td>
 <td height="150" width="250" >
