@@ -27,19 +27,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Upcoming Events
 
-### OWASP Nagpur Meet #8 (Virtual)
-
-* Date : 17th May
-* Time : 11:00 AM
-* Agenda: 
-1. News Bytes
-2. SSRF For Bug Bounties  - <a href="https://twitter.com/Cyb3rlant3rn">Rishabh Nigam</a>
-3. Everything OSS -The Application and Importance of Open Source Software - <a href="https://twitter.com/callmeshreyas">Shreyas Muthe</a>, <a href="https://twitter.com/Mr1337R0b0t">Arpan Adlakhiya</a>,<a href="https://twitter.com/NihalNakade7">Nihal Nakade</a>
-
-* Link to Register : <a href="https://www.meetup.com/OWASP-Nagpur-Chapter/events/270546441/"> Here </a>
-
-
-
 
 * Everyone is welcome to join us at our chapter meetings which are free to attend.Just come with an open mind and willingness to share and learn..
 
