@@ -6,6 +6,9 @@ tags: nagpur
 level: 0
 site_side: true
 region: Asia
+meetup-group: OWASP-Nagpur-Chapter
+country: India
+postal-code: 
 
 ---
 
