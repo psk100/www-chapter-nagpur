@@ -8,7 +8,7 @@ site_side: true
 region: Asia
 meetup-group: OWASP-Nagpur-Chapter
 country: India
-postal-code: 
+postal-code: 440001
 
 ---
 
