@@ -13,15 +13,16 @@
 </div>OWASP Nagpur FlagHunt Winners</div>
 <h4><span class="mw-headline" id="CTF_Available_at_:_http:.2F.2Fctzlab.com.2Fctf"><b>CTF Available at&nbsp;: <a rel="nofollow" class="external free" href="http://ctzlab.com/ctf">http://ctzlab.com/ctf</a></b></span></h4>
 <h2><span class="mw-headline" id="Winners_Are"><b>Winners Are</b></span></h2>
-<div class="thumb tnone"><div class="thumbinner" style="width:1356px;"><a href="https://www.owasp.org/index.php/File:Winners.png" class="image"><img alt="" src="../assets/images/feb2019winners.png" width="1354" height="271" class="thumbimage" srcset="/images/c/cf/Winners.png 1.5x, /images/c/cf/Winners.png 2x"></a>  <div class="thumbcaption"><div class="magnify"><a href="https://github.com/OWASP/www-chapter-nagpur/blob/master/assets/images/feb2019winners.png" class="internal" title="Enlarge"></a></div></div>
+<div class="thumb tnone"><div class="thumbinner" style="width:1356px;"><a href="https://www.owasp.org/index.php/File:Winners.png" class="image"><img alt="" src="../assets/images/feb2019winners.png"  class="thumbimage" ></a>  <div class="thumbcaption"><div class="magnify"><a href="https://github.com/OWASP/www-chapter-nagpur/blob/master/assets/images/feb2019winners.png" class="internal" title="Enlarge"></a></div></div>
   
-<ul><li><b>Venue Sponsor</b>:</li>
-<div class="thumb tnone"><div class="thumbinner" style="width:191px;"><img alt="" src="../assets/images/persistent_logo.png" width="189" height="150" class="thumbimage" srcset="../assets/images/persistent_logo.png">  <div class="thumbcaption"><div class="magnify"><a href="../assets/images/persistent_logo.png" class="internal" title="Enlarge"></a></div><a rel="nofollow" class="external text" href="https://www.persistent.com/">Persistent Systems</a>
-  
-<li><b>CTF Sponsor</b>:</li>
-<div class="thumb tnone"><div class="thumbinner" style="width:191px;"><img alt="" width="189" height="150" class="thumbimage" srcset="../assets/images/ctzlab_logo.png">  <div class="thumbcaption"><div class="magnify"><a href="https://ctzlab.com/ctz.png" class="internal" title="Enlarge"></a></div><a rel="nofollow" class="external text" href="https://ctzlab.com/">CTZ Lab</a>
-
-</ul>
+<b>Venue Sponsor</b>: <br>
+<img src="../assets/images/persistent_logo.png" ><br><a rel="nofollow" class="external text" href="https://www.persistent.com/">Persistent Systems</a>
 
   
-  </div></div></div>
+<b>CTF Sponsor</b>:<br>
+<img src="../assets/images/ctzlab_logo.png" height="64" width="66" ><br></a><a rel="nofollow" class="external text" href="https://ctzlab.com/">CTZ Lab</a>
+
+
+
+  
+  </div></div>
