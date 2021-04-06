@@ -1,4 +1,4 @@
-<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><h3><span class="mw-headline" id="OWASP_Nagpur_Meet_.236_.28Diwali_Meet.29">OWASP Nagpur Meet #6 (Diwali Meet)</span></h3>
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><h3><span class="mw-headline" id="OWASP_Nagpur_Meet_.236_.28Diwali_Meet.29">October 2019</span></h3>
 <ul><li><b>Date</b>: 26th Oct 2019</li>
 <li><b>Time</b>&nbsp;: 10:00 AM to 2:00 PM</li>
 <li><b>Slides available at</b>&nbsp;: <a rel="nofollow" class="external free" href="https://drive.google.com/open?id=1k04lKq5H1jNt9OHsoF9KifZ4UpRLBqCz">https://drive.google.com/open?id=1k04lKq5H1jNt9OHsoF9KifZ4UpRLBqCz</a></li>
