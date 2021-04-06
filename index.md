@@ -33,17 +33,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 * Everyone is welcome to join us at our chapter meetings which are free to attend.Just come with an open mind and willingness to share and learn..
 
-### OWASP Nagpur Meet #9 (Virtual)
-
-* Date : 12th Sept
-* Time : 10:00 AM IST
-* Sessions: 
-
-1. Detect complex code patterns using semantic grep (45 mins + 15 mins) <a href="https://www.linkedin.com/in/drewdennison/">Drew Dennison</a>, CTO, Co-Founder r2c
-2. Industrial Control System Security (45 mins + 15 mins)- <a href="mailto:vyankatesh.muley5@gmail.com">Vyankatesh Muley</a>,President ,SHELL-Hacker's Club VNIT,Undergrad Student
-
-
-* RSVP : <a href="https://www.meetup.com/OWASP-Nagpur-Chapter/events/272844187/"> Here </a>
 
 
 Support & Sponsors
