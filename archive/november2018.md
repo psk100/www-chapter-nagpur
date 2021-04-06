@@ -1,4 +1,4 @@
-<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><h4><span class="mw-headline" id="OWASP_Nagpur_Meet_.233_Nov_30_2018">OWASP Nagpur Meet #3 Nov 30 2018</span></h4>
+<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><h4><span class="mw-headline" id="OWASP_Nagpur_Meet_.233_Nov_30_2018">November 2018</span></h4>
 <p><b>Agenda:</b>
 </p>
 <ul><li>News Bytes by <a rel="nofollow" class="external text" href="mailto:chaitanya@ctzlab.com">Chaitanya Deshpande</a></li></ul>
