@@ -6,13 +6,13 @@ tags: nagpur
 level: 0
 site_side: true
 region: Asia
-meetup-group: OWASP-Nagpur-Chapter/
+meetup-group: OWASP-Nagpur-Chapter
 country: India
 postal-code: 440001
 
 ---
 
-<!-- rebuild -->
+
 
 
   <a href="https://20thanniversary.owasp.org/"><img src="assets/images/OWASP20thAnniversary.png" style="width: auto; height: auto;" alt="OWASP 20th Anniversary"/></a>
@@ -32,10 +32,10 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Upcoming Events
 
-
 * Everyone is welcome to join us at our chapter meetings which are free to attend.Just come with an open mind and willingness to share and learn..
 
 {% include chapter_events.html group=page.meetup-group %}
+
 
 Supporters
 ----------------
