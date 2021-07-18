@@ -36,6 +36,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 {% include chapter_events.html group=page.meetup-group %}
 
+ <a href="https://www.meetup.com/OWASP-Nagpur-Chapter/events/279333967/"><img src="assets/images/events/July012021.png" style="width: 30%; height: 30%;" alt="OWASP Meet 11"/></a>
+  <a href="https://www.meetup.com/OWASP-Nagpur-Chapter/events/279333967/"><img src="assets/images/events/July022021.png" style="width: 30%; height: 30%;" alt="OWASP Meet 11"/></a>
 
 Supporters
 ----------------
