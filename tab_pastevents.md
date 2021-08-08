@@ -7,9 +7,7 @@ tab: true
 order: 2
 tags: nagpur
 
----
 
----
 
 title: July 2018
 displaytext: July 2018
