@@ -11,6 +11,17 @@ tags: nagpur
 
 ## Past Events
 
+----
+
+title: PastEvents
+displaytext: Past Events
+layout: null
+tab: true
+order: 2
+tags: nagpur
+
+----
+
 * <a href="https://github.com/OWASP/www-chapter-nagpur/blob/master/archive/july2021.md">July 2021 </a>
 * <a href="https://github.com/OWASP/www-chapter-nagpur/blob/master/archive/june2021.md">June 2021 </a>
 * <a href="https://github.com/OWASP/www-chapter-nagpur/blob/master/archive/september2020.md">September 2020 </a>
