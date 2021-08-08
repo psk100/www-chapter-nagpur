@@ -9,6 +9,16 @@ tags: nagpur
 
 ---
 
+---
+
+title: July 2018
+displaytext: July 2018
+layout: null
+tab: true
+order: 1
+tags: nagpur
+
+---
 
 ## Past Events
 
