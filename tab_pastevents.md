@@ -12,7 +12,7 @@ tags: nagpur
 ## Past Events
 
 
-* <iframe src="https://raw.githubusercontent.com/OWASP/www-chapter-nagpur/master/archive/july2021.md" >July 2021 </iframe>
+<iframe src="https://raw.githubusercontent.com/OWASP/www-chapter-nagpur/master/archive/july2021.md" >July 2021 </iframe>
 * <a href="https://github.com/OWASP/www-chapter-nagpur/blob/master/archive/june2021.md">June 2021 </a>
 * <a href="https://github.com/OWASP/www-chapter-nagpur/blob/master/archive/september2020.md">September 2020 </a>
 * <a href="https://github.com/OWASP/www-chapter-nagpur/blob/master/archive/chaptersalldayjune2020.md">OWASP Chapters All Day 6th & 7th June 2020</a>
