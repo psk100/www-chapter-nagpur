@@ -33,11 +33,12 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Upcoming Events
 
 * Everyone is welcome to join us at our chapter meetings which are free to attend.Just come with an open mind and willingness to share and learn..
+* Coming soon
 
 {% include chapter_events.html group=page.meetup-group %}
 
 
-Supporters
+Supporters 
 ----------------
 The following are the list of organizations/teams who have supported the OWASP Nagpur chapter in some or the other way:
 
