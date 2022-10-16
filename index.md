@@ -33,6 +33,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Upcoming Events
 
 * Everyone is welcome to join us at our chapter meetings which are free to attend.Just come with an open mind and willingness to share and learn..
+* Coming Soon
 
 {% include chapter_events.html group=page.meetup-group %}
 
